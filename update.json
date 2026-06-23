@@ -1,6 +1,6 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0",
-  "updateUrl": "https://github.com/Kophyok23/ZBTPOS-Updates/releases/download/v1.1/nexus_pos_v1.0.apk",
-  "releaseNotes": "- ပထမဆုံး ဗားရှင်းစတင်ခြင်း"
+  "versionCode": 2,
+  "versionName": "1.1",
+  "updateUrl": "https://github.com/Kophyok23/ZBTPOS-Updates/releases/download/v1.2/nexus_pos_v1.1.apk",
+  "releaseNotes": "- အဆင့်မြှင့်တင်မှုများ ပြုလုပ်ထားပါသည်"
 }
